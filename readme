@@ -1,0 +1,6 @@
+Files for the game logic and replay system were provided in .py modules imported in the first frame. The test logic and model initialization were also provided. 
+My contribution was the code used to train the model, specifically how it should loop through each playthrough-epoch, right up until the pass-state checks and terminal feedback. 
+
+Through this course, I believe my greatest takeaway (aside from a definite budding interest in using/training ai models and building more of my own) is that as ai takes on more responsibility and tasks for society,
+the data and methodologies for training the models will require significant forethought and continuous examination. It became clear both through our own technical tests and stories/articles we read that failing
+this step can have fairly dramatic consequences (though not always necessarily impactful ones).
